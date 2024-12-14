@@ -8,7 +8,7 @@ Topic 6	Autonomous vehicles navigate and avoid obstacles using computer vision, 
 Topic 7	Optimizing marketing campaigns using predictive analytics, NLP, and A/B testing algorithms. 													
 Topic 8	Performance evaluation and training recommendations using machine learning, NLP, and recommendation systems. 	
 
-#AI Technologies and Methods 																							
+# AI Technologies and Methods 																							
 1. Machine Learning:  																							
 Supervised Learning: Techniques include linear regression, logistic regression, support vector machines (SVM), decision trees, random forests, and neural networks. 																							
 Unsupervised Learning: Techniques include clustering (e.g., K-means, hierarchical clustering), dimensionality reduction (e.g., PCA, t-SNE), and anomaly detection. 																							
