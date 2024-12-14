@@ -1,11 +1,18 @@
 # Topic for product AI
 Topic 1	AI chatbots handle customer inquiries, provide support, and perform routine tasks using NLP, machine learning, and sentiment analysis. 													
+
 Topic 2	AI systems analyse medical images to detect diseases using CNNs, deep learning, and transfer learning. 													
+
 Topic 3	Predictive maintenance forecasts equipment failures using machine learning, sensor data analysis, and anomaly detection. 													
+
 Topic 4	Fraud detection in financial transactions using supervised learning algorithms, anomaly detection, and real-time data processing. 													
+
 Topic 5	Personalized product recommendations using collaborative filtering, content-based filtering, and reinforcement learning. 													
+
 Topic 6	Autonomous vehicles navigate and avoid obstacles using computer vision, reinforcement learning, and sensor fusion. 													
+
 Topic 7	Optimizing marketing campaigns using predictive analytics, NLP, and A/B testing algorithms. 													
+
 Topic 8	Performance evaluation and training recommendations using machine learning, NLP, and recommendation systems. 	
 
 # AI Technologies and Methods 																							
