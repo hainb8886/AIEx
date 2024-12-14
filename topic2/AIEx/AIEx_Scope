@@ -30,3 +30,21 @@
 # 4. Cloud/Hardware:
 - GPUs: NVIDIA CUDA for training.
 - Cloud: Google Cloud, AWS, or Azure for large-scale training.
+
+
+# III. Select Tools and Frameworks
+# 1. Machine Learning Frameworks:
+- TensorFlow, PyTorch for deep learning.
+- Scikit-learn for traditional ML models.
+
+# 2. Time-Series Libraries:
+- GluonTS, Facebook Prophet.
+- Statsmodels, tsfresh (feature extraction).
+
+# 3. Anomaly Detection Tools:
+- Isolation Forest, Autoencoders.
+- One-Class SVM.
+
+# 4. Deployment Tools:
+- Flask/FastAPI for APIs.
+- Streamlit/Dash for dashboards.
