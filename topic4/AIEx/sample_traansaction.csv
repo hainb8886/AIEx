@@ -1,0 +1,5 @@
+user_id,amount,location,transaction_type,timestamp,fraud_label
+123,200,New_York,online_purchase,2024-06-14 10:00:00,0
+456,5000,London,cash_withdrawal,2024-06-14 11:05:00,1
+565,7000,HaNoi,cash_withdrawal,2024-08-30 1:05:00,1
+765,9000,HCM,cash_withdrawal,2024-09-30 4:05:00,1
