@@ -1,3 +1,4 @@
+
 # Topic for product AI
 Topic 1	: AI chatbots handle customer inquiries, provide support, and perform routine tasks using NLP, machine learning, and sentiment analysis. 													
 
@@ -44,3 +45,7 @@ Advanced Techniques: 
 Generative Adversarial Networks (GANs): Consist of two neural networks, a generator and a discriminator, that compete against each other. Techniques include adversarial training, conditional GANs, and cycle GANs. 																							
 ShapeTransfer Learning: Taking a pre-trained model and fine-tuning it on a new, but related, task. Techniques include feature extraction, fine-tuning, and domain adaptation. 																							
 Explainable AI (XAI): Making AI models more interpretable and understandable to humans. Techniques include LIME (Local Interpretable Model-agnostic Explanations), SHAP (SHapley Additive exPlanations), and attention mechanisms. 																							
+
+
+# Setup library
+- pip install -r requirements.txt
